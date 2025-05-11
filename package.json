@@ -75,7 +75,7 @@
     "yaml-eslint-parser": "^1.2.3"
   },
   "devDependencies": {
-    "@arethetypeswrong/cli": "^0.17.0",
+    "@arethetypeswrong/cli": "^0.18.0",
     "@changesets/cli": "^2.27.9",
     "@kodehort/prettier-config": "^3.0.3",
     "@tsconfig/node16": "^16.1.3",
